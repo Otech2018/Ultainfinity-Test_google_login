@@ -1,6 +1,6 @@
-# Ultainfinity-Test Laravel Project Setup and Testing Guide
+# Ultainfinity_Test_google_login Laravel Project Setup and Testing Guide
 
-Welcome to the documentation for setting up and testing the Ultainfinity-Test Laravel project. This guide will walk you through the process of cloning the Ultainfinity-Test Laravel project from a GitHub repository and testing it on your local environment.
+Welcome to the documentation for setting up and testing the Ultainfinity_Test_google_login Laravel project. This guide will walk you through the process of cloning the Ultainfinity_Test_google_login Laravel project from a GitHub repository and testing it on your local environment.
 
 ## Prerequisites
 
@@ -12,10 +12,10 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Clone the Repository
 
-Open your terminal and run the following command to clone the Ultainfinity-Test Laravel project from the GitHub repository:
+Open your terminal and run the following command to clone the Ultainfinity_Test_google_login Laravel project from the GitHub repository:
 
 ```bash
-git clone https://github.com/otech2018/Ultainfinity-Test.git
+git clone https://github.com/otech2018/Ultainfinity_Test_google_login.git
 ```
 
 
@@ -24,7 +24,7 @@ git clone https://github.com/otech2018/Ultainfinity-Test.git
 Navigate to the project directory using the `cd` command:
 
 ```bash
-cd Ultainfinity-Test
+cd Ultainfinity_Test_google_login
 ```
 
 Now, use Composer to install the project dependencies:
@@ -77,14 +77,14 @@ Open another terminal and run:
 npm run dev
 ```
 
-Visit `http://localhost:8000` in your web browser to see the Ultainfinity-Test Laravel application running.
+Visit `http://localhost:8000` in your web browser to see the Ultainfinity_Test_google_login Laravel application running.
 
 
 ## Additional Notes
 
 - Ensure your system meets the Laravel [requirements](https://laravel.com/docs/8.x/installation#server-requirements).
-- Check the Ultainfinity-Test project's documentation for any specific instructions or additional setup steps.
+- Check the Ultainfinity_Test_google_login project's documentation for any specific instructions or additional setup steps.
 
-Now you have successfully cloned the Ultainfinity-Test Laravel project, set up the environment, and tested the application. If you encounter any issues, refer to the project's documentation or seek help from the community.
+Now you have successfully cloned the Ultainfinity_Test_google_login Laravel project, set up the environment, and tested the application. If you encounter any issues, refer to the project's documentation or seek help from the community.
 
 
